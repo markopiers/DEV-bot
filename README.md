@@ -66,3 +66,6 @@ With the bot running and invited to a server:
 
 - Implement the `/linkwallet [wallet_address]` command: Allow users to link their wallets.
 - Implement `/total-price` command which will take an amount input from the user and return the USD price of that amount of DEV token
+
+## LICENSE
+This project is Licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) Check LICENSE for more details.
